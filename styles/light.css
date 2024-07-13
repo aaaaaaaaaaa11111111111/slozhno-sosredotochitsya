@@ -14,6 +14,7 @@
   --default-color-text: #353430;
   --button-corner-main-section-title-color: #353430;
   --header-title-shadow-color: #ff0070;
+  --button-hover-colror: rgba(50, 49, 45, 0.4);
   --rec-visibility: none;
   /* сохраните этот селектор в приведённом виде.
     Так стили написанные ниже будут иметь больший вес,
